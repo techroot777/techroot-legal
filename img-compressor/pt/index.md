@@ -1,3 +1,7 @@
+---
+layout: default
+lang: pt
+---
 # Compressor de Fotos – Política de Privacidade
 
 Última atualização: 2026-11-08

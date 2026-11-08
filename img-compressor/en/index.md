@@ -1,3 +1,7 @@
+---
+layout: default
+lang: en
+---
 # Image Compressor – Privacy Policy
 
 Last updated: 2026-11-08

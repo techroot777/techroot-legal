@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="{{ page.lang | default: 'en' }}">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ page.title | default: site.title }}</title>
+<style>
+:root{color-scheme:light dark;--fg:#0f172a;--bg:#f8fafc;--mute:#475569;--acc:#2563eb}
+@media (prefers-color-scheme:dark){:root{--fg:#e6e9f0;--bg:#0f1218;--mute:#9aa3b0;--acc:#6ea0ff}}
+body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.6 Inter,system-ui,-apple-system,Segoe UI,Roboto,sans-serif}
+main{max-width:720px;margin:0 auto;padding:24px 16px 64px}
+h1{font-size:1.7rem;line-height:1.25}h2{font-size:1.2rem;margin-top:2rem}
+a{color:var(--acc)}
+</style>
+</head>
+<body><main>{{ content }}</main></body>
+</html>

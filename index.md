@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Techroot – Legal
 
 Privacy policies of Techroot apps.

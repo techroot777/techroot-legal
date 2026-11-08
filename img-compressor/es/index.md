@@ -1,3 +1,7 @@
+---
+layout: default
+lang: es
+---
 # Comprimir Fotos – Política de Privacidad
 
 Última actualización: 2026-11-08
