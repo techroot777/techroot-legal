@@ -9,3 +9,8 @@ Privacy policies of Techroot apps.
 - [English](img-compressor/en/)
 - [Português](img-compressor/pt/)
 - [Español](img-compressor/es/)
+
+## Level & Compass
+- [English](sensors/en/)
+- [Português](sensors/pt/)
+- [Español](sensors/es/)
