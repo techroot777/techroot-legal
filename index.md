@@ -14,3 +14,6 @@ Privacy policies of Techroot apps.
 - [English](sensors/en/)
 - [Português](sensors/pt/)
 - [Español](sensors/es/)
+
+## Tem Direito?
+- [Português](social-benefits/pt/)
